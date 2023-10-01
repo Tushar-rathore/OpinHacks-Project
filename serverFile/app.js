@@ -2,8 +2,8 @@ var express=require("express");
 var bodyParser=require("body-parser");
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://127.0.0.1:27017/tutorialsPoint');  //localhost is used insted of mongoDB atlas 
-// for example
+mongoose.connect('mongodb://127.0.0.1:27017/tutorialsPoint');  //localhost is used instead of mongoDB atlas due to lack of time so we are taking it in a localhost 
+// for example this is a set of data received by sign up page
 // {
 //   "_id": {
 //    "$oid": "65189e58f604e6b4de997988"
