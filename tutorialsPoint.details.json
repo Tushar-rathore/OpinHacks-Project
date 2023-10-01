@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65183ff4d90b52b7187e1a11"
+  },
+  "name": "Tushar Rathore",
+  "email": "rathoretushar31@gmail.com",
+  "password": "123",
+  "phone": "09302085642"
+},
+{
+  "_id": {
+    "$oid": "651840645b256dcb3d3187f8"
+  },
+  "name": "Tushar Rathore",
+  "email": "rathoretushar31@gmail.com",
+  "password": "123",
+  "phone": "09302085642"
+},
+{
+  "_id": {
+    "$oid": "651852d66d441339522c411a"
+  },
+  "name": "harshdeep",
+  "email": "harshdeep@123gmail.com",
+  "password": "1234",
+  "phone": "0987654321"
+},
+{
+  "_id": {
+    "$oid": "65189e58f604e6b4de997988"
+  },
+  "name": "Tushar Rathore",
+  "email": "rc@rungta.ac.in",
+  "password": "123",
+  "phone": "09302085642"
+},
+{
+  "_id": {
+    "$oid": "6518a02a6aca7ec66cacc41c"
+  },
+  "name": "Tushar Rathore",
+  "email": "rathoretushar31@gmail.com",
+  "password": "2435",
+  "phone": "09302085642"
+}]
